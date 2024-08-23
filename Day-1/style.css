@@ -1,0 +1,132 @@
+.ideas-box {
+  background-color: #1de592;
+  border-radius: 10px;
+  width: 500px;
+  padding: 100px 50px;
+  margin: 50px auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.idea-btn {
+  border-radius: 25px;
+  padding: 12px 40px;
+  font-size: 20px;
+  border: none;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  font-weight: bold;
+  background-color: white;
+}
+
+.idea-header {
+  width: 50%;
+  font-size: 40px;
+}
+
+.profile-box {
+  width: 500px;
+  margin: 50px auto;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.profile-body {
+  box-sizing: border-box;
+  padding: 20px 25px;
+}
+
+.profile-description {
+  color: gray;
+  font-size: 21px;
+}
+
+.profile-footer {
+  border-top: 1px solid lightgray;
+  padding: 10px 30px;
+  color: #2377e9;
+}
+
+.profile-img{
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  padding: 20px 50px;
+}
+
+.google {
+  width: 500px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  margin: 50px auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.google-photo {
+  width: 100%;
+  height: 300px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.google-content{
+  padding: 25px;
+  color: gray;
+}
+
+.google-content h1 {
+  color: black;
+}
+
+.google-content p {
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 2px;
+}
+
+.google-btn {
+  padding: 15px 40px;
+  margin: 20px 0px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  font-size: larger;
+  color: #2377e9;
+  background: white;
+  font-weight: bold;
+}
+
+.login-card{
+  border: 1px solid black;
+  width: 300px;
+  margin: 50px auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.login-logo{
+  width: 100%;
+  font-size: 50px;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.login-card h4 {
+  text-align: center;
+}
+
+.input {
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  font-size: 16px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid lightgray;
+}
+
+.login-btn{
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
